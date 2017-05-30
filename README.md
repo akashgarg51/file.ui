@@ -1,2 +1,2 @@
 # file.ui
-File UI Swift
+Swift UI
